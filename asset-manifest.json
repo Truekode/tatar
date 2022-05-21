@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.e9a47561.css",
-    "main.js": "/static/js/main.c2f97cc9.js",
+    "main.css": "/static/css/main.f32f6299.css",
+    "main.js": "/static/js/main.bd8bedca.js",
     "static/media/Fon.svg": "/static/media/Fon.c3d844bf127a821eda82.svg",
     "static/media/success.webp": "/static/media/success.2aec98307700576d119d.webp",
     "static/media/error.webp": "/static/media/error.36fb286e6f1c31373e99.webp",
+    "static/media/grammar.svg": "/static/media/grammar.7dd4c7a56a9d250165d0e4b9a591a566.svg",
+    "static/media/test.svg": "/static/media/test.a41418add9fcf3458a920d6caaf0ac8a.svg",
+    "static/media/learn.svg": "/static/media/learn.ecbd535b13b5bd549cd7939ab96efcbf.svg",
+    "static/media/constructor.svg": "/static/media/constructor.38d047548df3effd77524a7b499eb2c7.svg",
+    "static/media/dict.svg": "/static/media/dict.a90e5a610d7cd42cd592c5b12b0663a5.svg",
     "index.html": "/index.html",
-    "main.e9a47561.css.map": "/static/css/main.e9a47561.css.map",
-    "main.c2f97cc9.js.map": "/static/js/main.c2f97cc9.js.map"
+    "main.f32f6299.css.map": "/static/css/main.f32f6299.css.map",
+    "main.bd8bedca.js.map": "/static/js/main.bd8bedca.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9a47561.css",
-    "static/js/main.c2f97cc9.js"
+    "static/css/main.f32f6299.css",
+    "static/js/main.bd8bedca.js"
   ]
 }
